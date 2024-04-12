@@ -17,7 +17,7 @@ Our methodology leverages a dual-modality approach using both RGB and Infrared (
 # Evaluation Results
 ![alt text](./Picture4.png)
 
-_Please see my project report here_ (Click here: report PDF [Final Report](./ML%20Final%20Report.pdf))
+_Please see my **project report** here_ ([Click here: Final Report](./ML%20Final%20Report.pdf))
 
-_Please see my presentation slides here_ (Click here: slides PDF[Slides ](./Multispectral%20Object%20Detection%20using%20DETR.pdf))
+_Please see my **presentation slides** here_ ([Click here: Slides ](./Multispectral%20Object%20Detection%20using%20DETR.pdf))
 
